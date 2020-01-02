@@ -204,5 +204,25 @@
     "intelligence": 7,
     "time": 10,
     "fun": -1
-  }
+  },
+  {
+    "id": "usami_grimoire",
+    "type": "BOOK",
+    "name": "Usami Grimoire",
+    "name_plural": "Usami Grimoires",
+    "description": "It is a book that contains ratings of various spells shown at a so-called fireworks show. There's a picture of a schoolgirl sitting in a chair with a witch behind her. Some magic seems to be usable in this world.",
+    "weight": 3000,
+    "volume": 4,
+    "price": 3000,
+    "bashing": 8,
+    "material": [ "paper" ],
+    "symbol": "?",
+    "color": "light_purple",
+    "skill": "cooking",
+    "max_level": 6,
+    "intelligence": 14,
+    "time": 80,
+    "fun": -20,
+    "flags": [ "TRADER_AVOID", "DURABLE_MELEE" ]
+  },
 ]
