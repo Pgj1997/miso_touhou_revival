@@ -4,8 +4,8 @@
     "mod_type": "SUPPLEMENTAL",
     "ident": "Touhou",
     "name": "Touhou",
-    "authors": [ "味噌煮込み茄子" ],
-    "maintainers": [ "味噌煮込み茄子" ],
+    "authors": [ "味噌煮込み茄子", "Pgj1997" ],
+    "maintainers": [ "Pgj1997" ],
     "dependencies": [ "Touyou" ],
     "description": "We add elements such as occupation, recipe, item which assumed Touhou Project motif."
   }
