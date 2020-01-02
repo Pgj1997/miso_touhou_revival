@@ -90,6 +90,7 @@
       [ "manual_aikido", 25 ],
       [ "manual_tai_chi", 25 ],
       [ "black_magic_grimoire", 50 ],
+      [ "usami_grimoire", 50 ],
       [ "textbook_weapeast", 30 ],
       [ "textbook_armeast", 30 ],
       [ "textbook_armschina", 30 ]
@@ -121,37 +122,37 @@
   {
     "type": "item_group",
     "id": "trash",
-    "items": [ [ "black_magic_grimoire", 1 ], [ "black_magic_grimoire_fake", 1 ] ]
+    "items": [ [ "black_magic_grimoire", 1 ], [ "black_magic_grimoire_fake", 1 ] [ "usami_grimoire", 1 ] ]
   },
   {
     "type": "item_group",
     "id": "novels",
-    "items": [ [ "black_magic_grimoire_fake", 1 ] ]
+    "items": [ [ "black_magic_grimoire_fake", 1 [ "usami_grimoire", 1 ] ] ]
   },
   {
     "type": "item_group",
     "id": "homebooks",
-    "items": [ [ "black_magic_grimoire", 1 ], [ "black_magic_grimoire_fake", 1 ] ]
+    "items": [ [ "black_magic_grimoire", 1 ], [ "black_magic_grimoire_fake", 1 [ "usami_grimoire", 1 ] ] ]
   },
   {
     "type": "item_group",
     "id": "manuals",
-    "items": [ [ "black_magic_grimoire", 1 ], [ "black_magic_grimoire_fake", 1 ] ]
+    "items": [ [ "black_magic_grimoire", 1 ], [ "black_magic_grimoire_fake", 1, [ "usami_grimoire", 1 ] ] ]
   },
   {
     "type": "item_group",
     "id": "textbooks",
-    "items": [ [ "black_magic_grimoire", 1 ], [ "black_magic_grimoire_fake", 1 ] ]
+    "items": [ [ "black_magic_grimoire", 1 ], [ "black_magic_grimoire_fake", 1, [ "usami_grimoire", 1 ] ] ]
   },
   {
     "type": "item_group",
     "id": "mansion_books",
-    "items": [ [ "black_magic_grimoire", 1 ], [ "black_magic_grimoire_fake", 1 ] ]
+    "items": [ [ "black_magic_grimoire", 1 ], [ "black_magic_grimoire_fake", 1 ] [ "usami_grimoire", 1 ] ]
   },
   {
     "type": "item_group",
     "id": "textbooks",
-    "items": [ [ "black_magic_grimoire", 1 ], [ "black_magic_grimoire_fake", 1 ] ]
+    "items": [ [ "black_magic_grimoire", 1 ], [ "black_magic_grimoire_fake", 1 ] [ "usami_grimoire", 1 ] ]
   },
   {
     "type": "item_group",
