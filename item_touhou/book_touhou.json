@@ -224,5 +224,5 @@
     "time": 80,
     "fun": -20,
     "flags": [ "TRADER_AVOID", "DURABLE_MELEE" ]
-  },
+  }
 ]
