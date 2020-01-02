@@ -145,5 +145,20 @@
     "valid": false,
     "description": "It has a transcendent brain as a youkai, and the accumulated knowledge goes beyond the human category.",
     "passive_mods": { "int_mod": 4 }
+  },
+  {
+    "type": "mutation",
+    "id": "PATHOLI_ENCYCLOPEDIA",
+    "name": "Patchouli's Advice",
+    "points": 0,
+    "visibility": 0,
+    "ugliness": 0,
+    "valid": true,
+    "starting_trait": true,
+    "description": "The patchy doll is added to the initial item. You may be able to receive a wealth of advice from some of the best intellects."
+  },
+  {
+    "type": "profession_item_substitutions",
+    "substitutions": [ { "item": "patchouli_encyclopedia", "bonus": [ [ "PATHOLI_ENCYCLOPEDIA" ] ] } ]
   }
 ]
