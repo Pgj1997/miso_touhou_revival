@@ -284,6 +284,7 @@
           "gloves_liner",
           "cell_phone",
           "water_clean"
+          "usami_grimoire",
         ],
         "entries": [
           { "item": "onigiri", "container-item": "bag_plastic_sealed", "charges": 2 },
@@ -1367,8 +1368,7 @@
     "description": "(Yuugi Hoshiguma) Sake is a fun place to drink and have fun. I can not enjoy it in this world like a funeral. Let's take a face off for humans.",
     "points": 6,
     "traits": [
-      "PRETTY",
-      "SAPIOVORE",
+f      "SAPIOVORE",
       "NIGHTVISION",
       "TOUGH",
       "STRONGSTOMACH",
