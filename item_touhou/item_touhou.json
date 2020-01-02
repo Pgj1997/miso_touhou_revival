@@ -943,5 +943,15 @@
       "skill2": "gun"
     },
     "flags": [ "SLEEP_AID", "TRADER_AVOID" ]
+  },
+  {
+    "id": "sumireko_teleport",
+    "type": "TOOL",
+    "name": "teleportation",
+    "description": "Teleport a short distance using psychic powers.",
+    "symbol": ",",
+    "color": "magenta",
+    "use_action": "TELEPORT",
+    "flags": ["WATER_FRIENDLY"]
   }
 ]
