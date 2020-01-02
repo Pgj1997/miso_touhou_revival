@@ -156,7 +156,7 @@
     "type": "profession",
     "ident": "kirisame_marisa",
     "name": { "male": "Ordinary Magician (Female Only!)", "female": "Ordinary Magician" },
-    "description": "(Kirisame Marisa) It is unexpected that the civilization of what has visited the outside world for unusual things has collapsed. However, I thought positively that it was a chance that anything could be my own. Come on, let's go to the treasure hunt.",
+    "description": "(Marisa Kirisame) It is unexpected that the civilization of what has visited the outside world for unusual things has collapsed. However, I thought positively that it was a chance that anything could be my own. Come on, let's go to the treasure hunt.",
     "points": 4,
     "traits": [ "PRETTY", "FLEET", "QUICK" ],
     "skills": [
@@ -300,7 +300,7 @@
     "type": "profession",
     "ident": "moritika_rinnosuke",
     "name": { "male": "The Unmoving Used Goods Seller", "female": "The Unmoving Used Goods Seller (Male Only!)" },
-    "description": "(Morichika Rinnosuke) I was searching for strange items, and if I was looking at a strange gate, I was taken to this world. Well, how should we get through the current situation? The ability to understand the name and purpose of the tool is alive, but I regret that I should have been playing about a banner if this is the case.",
+    "description": "(Rinnosuke Morichika) I was searching for strange items, and if I was looking at a strange gate, I was taken to this world. Well, how should we get through the current situation? The ability to understand the name and purpose of the tool is alive, but I regret that I should have been playing about a banner if this is the case.",
     "points": 4,
     "traits": [ "PRETTY", "MYOPIC", "NIGHTVISION", "PACKMULE", "LOVES_BOOKS" ],
     "skills": [
@@ -349,7 +349,7 @@
     "type": "profession",
     "ident": "ibaraki_kasen",
     "name": { "male": "The One-Armed, Horned Hermit (Female Only!)", "female": "The One-Armed, Horned Hermit" },
-    "description": "(Ibaraki Kasen) I just miss the days when I was human. If the world was like this, I might have been able to remain human at that time.",
+    "description": "(Kasen Ibaraki) I just miss the days when I was human. If the world was like this, I might have been able to remain human at that time.",
     "points": 6,
     "traits": [
       "PRETTY",
@@ -391,7 +391,7 @@
     "type": "profession",
     "ident": "motoori_kosuzu",
     "name": { "male": "Bibliophilia with a Deciphering Eye (Female Only!)", "female": "Bibliophilia with a Deciphering Eye" },
-    "description": "(Motoori Kosuzu) It is very disappointing that there is no book that can overcome this situation. I came to a place full of unusual books, but also horrible stuff.",
+    "description": "(Kosuzu Motoori) It is very disappointing that there is no book that can overcome this situation. I came to a place full of unusual books, but also horrible stuff.",
     "points": 2,
     "traits": [ "PRETTY", "OPTIMISTIC", "LOVES_BOOKS" ],
     "items": {
@@ -491,7 +491,7 @@
     "type": "profession",
     "ident": "hiedano_akyuu",
     "name": { "male": "Memory of Gensokyo (Female Only!)", "female": "Ninth Life" },
-    "description": "(Hieda no Akyuu) I have repeatedly reincarnate many times, but this misery that envys and the dead are jealous has never been overwhelmed. It may be difficult to survive and write down Gensokyo Auspicious.",
+    "description": "(Akyuu no Hieda) I have repeatedly reincarnate many times, but this misery that envys and the dead are jealous has never been overwhelmed. It may be difficult to survive and write down Gensokyo Auspicious.",
     "points": 0,
     "traits": [ "PRETTY", "FLIMSY", "LOVES_BOOKS" ],
     "CBMs": [ "bio_memory", "bio_power_storage" ],
@@ -672,7 +672,7 @@
     "type": "profession",
     "ident": "izayoi_sakuya",
     "name": { "male": "Maid of the Scarlet Devil Mansion (Female Only!)", "female": "Maid of the Scarlet Devil Mansion" },
-    "description": "(Izayoi Sakuya) Patchouli's magic experiment failed, and I came to such a place. Pest control is not the main part of the maid, but there is no way to secure clothing, food and shelter. Let's put our hands on little by little.",
+    "description": "(Sakuya Izayoi) Patchouli's magic experiment failed, and I came to such a place. Pest control is not the main part of the maid, but there is no way to secure clothing, food and shelter. Let's put our hands on little by little.",
     "points": 6,
     "traits": [ "PRETTY", "PACKMULE", "SQUEAMISH", "STYLISH", "PSYCHOPATH", "PATHOLI_ENCYCLOPEDIA" ],
     "skills": [
@@ -1317,7 +1317,7 @@
       "male": "Tiny Night Parade of One Hundred Demons (Female Only!)",
       "female": "Tiny Night Parade of One Hundred Demons"
     },
-    "description": "(Ibuki Suika) Sake is a fun place to drink and have fun. I can not enjoy it in this world like a funeral. Let's take a face off for humans.",
+    "description": "(Suika Ibuki) Sake is a fun place to drink and have fun. I can not enjoy it in this world like a funeral. Let's take a face off for humans.",
     "points": 6,
     "traits": [
       "PRETTY",
