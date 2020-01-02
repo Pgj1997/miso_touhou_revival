@@ -220,7 +220,7 @@
     "flags": [ "VARSIZE", "FANCY" ]
   },
   {
-    "id": "sumireko_cloth",
+    "id": "sumireko_cloak",
     "type": "ARMOR",
     "name": "runic cloak",
     "name_plural": "runic cloaks",
