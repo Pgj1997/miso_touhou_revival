@@ -285,6 +285,7 @@
           "cell_phone",
           "water_clean"
           "usami_grimoire",
+          "sumireko_teleport",
         ],
         "entries": [
           { "item": "onigiri", "container-item": "bag_plastic_sealed", "charges": 2 },
